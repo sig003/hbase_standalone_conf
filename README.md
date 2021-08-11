@@ -1,0 +1,2 @@
+# hbase standalone conf file
+
