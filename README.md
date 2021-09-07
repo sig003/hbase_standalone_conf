@@ -86,4 +86,5 @@ $ ./hbase/bin/hbase shell
 
 ## 5. Reference
 https://sig03.medium.com/hbase-standalone-설치-후-데몬이-죽는-문제-해결-5007c49159fc
+
 https://sig03.medium.com/hbase-도입-검토-e165fd439f5b
